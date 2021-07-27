@@ -25,4 +25,9 @@ I'm Jishnu.
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jishnu075&show_icons=true&locale=en&layout=compact" alt="jishnu075" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jishnu075&show_icons=true&locale=en" alt="jishnu075" /></p>
 
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Jishnu Spotify Playing" width="350" />](https://open.spotify.com/user/31wvqzu6olezftdckgnzn6ryk3rq)
+
+
 
