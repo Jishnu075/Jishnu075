@@ -33,7 +33,10 @@ I'm Jishnu.
 <!-- material spotify design --> 
 
 
-[![Spotify](https://jb-spfy-readme.vercel.app/api/spotify)](https://open.spotify.com/user/31wvqzu6olezftdckgnzn6ryk3rq)
+<!-- [![Spotify](https://jb-spfy-readme.vercel.app/api/spotify)](https://open.spotify.com/user/31wvqzu6olezftdckgnzn6ryk3rq) -->
+
+[![Spotify](https://spotify.axew.me/api/spotify)](https://open.spotify.com/user/31wvqzu6olezftdckgnzn6ryk3rq)
+
 
 
 
