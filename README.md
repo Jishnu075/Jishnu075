@@ -28,15 +28,4 @@ I'm Jishnu.
 
 ### Spotify Playing 🎧
 
-<!-- [<img src="https://jb-spfy-readme.vercel.app//api/spotify-playing" alt="Jishnu Spotify Playing" width="350" />](https://open.spotify.com/user/31wvqzu6olezftdckgnzn6ryk3rq)
-
-<!-- material spotify design --> 
-
-
 <!-- [![Spotify](https://jb-spfy-readme.vercel.app/api/spotify)](https://open.spotify.com/user/31wvqzu6olezftdckgnzn6ryk3rq) -->
-
-[![Spotify](https://spotify.jishnu075.me/api/spotify)](https://open.spotify.com/user/31wvqzu6olezftdckgnzn6ryk3rq)
-
-
-
-
