@@ -6,7 +6,6 @@ I'm Jishnu.
 <p align='center'>I'm a Student, Tech enthusiast, and loves Gaming  </p>
 
 - 🌱 I’m currently learning **Flutter**
-- 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me **jishnubiju075@gmail.com**
 
 
