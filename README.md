@@ -15,7 +15,7 @@ I'm Jishnu.
 <p align="left">
 <a href="https://twitter.com/jishkoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jishkoo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jishnubiju075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jishnubiju075/" height="30" width="40" /></a>
-<a href="https://instagram.com/jishkoooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jishkoooo" height="30" width="40" /></a>
+<a href="https://instagram.com/jishkooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jishkooo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
