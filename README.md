@@ -10,9 +10,6 @@ Building iOS and Android apps that make procrastination feel productive.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-![Jishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jishnu075&show_icons=true&locale=en)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jishnu075&layout=compact)
-
 ---
 
 *Here to keep you swiping, tapping, and maybe accidentally learning something along the way.*
